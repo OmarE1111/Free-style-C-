@@ -1,5 +1,0 @@
-/Users/omarelfarahaty/Documents/CSS 342/HW-1/build/CMakeFiles/fractions.dir
-/Users/omarelfarahaty/Documents/CSS 342/HW-1/build/CMakeFiles/powerof2.dir
-/Users/omarelfarahaty/Documents/CSS 342/HW-1/build/CMakeFiles/primenumber.dir
-/Users/omarelfarahaty/Documents/CSS 342/HW-1/build/CMakeFiles/edit_cache.dir
-/Users/omarelfarahaty/Documents/CSS 342/HW-1/build/CMakeFiles/rebuild_cache.dir
